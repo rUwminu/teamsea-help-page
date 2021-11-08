@@ -1,25 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import './App.css'
+import tw from 'twin.macro'
+import styled from 'styled-components'
+
+import Home from './GalleryHero/pages/Home'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <MainContainer className='App'>
+      <Home />
+    </MainContainer>
+  )
 }
 
-export default App;
+const MainContainer = styled.div`
+  ${tw`
+    w-full
+    overflow-x-hidden
+  `}
+`
+
+export default App
