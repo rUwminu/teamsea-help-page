@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/teamsea-help-page/static/css/main.fcadce58.chunk.css",
+    "main.js": "/teamsea-help-page/static/js/main.704c774d.chunk.js",
+    "main.js.map": "/teamsea-help-page/static/js/main.704c774d.chunk.js.map",
+    "runtime-main.js": "/teamsea-help-page/static/js/runtime-main.6e59c7b7.js",
+    "runtime-main.js.map": "/teamsea-help-page/static/js/runtime-main.6e59c7b7.js.map",
+    "static/js/2.9b2818ca.chunk.js": "/teamsea-help-page/static/js/2.9b2818ca.chunk.js",
+    "static/js/2.9b2818ca.chunk.js.map": "/teamsea-help-page/static/js/2.9b2818ca.chunk.js.map",
+    "index.html": "/teamsea-help-page/index.html",
+    "static/css/main.fcadce58.chunk.css.map": "/teamsea-help-page/static/css/main.fcadce58.chunk.css.map",
+    "static/js/2.9b2818ca.chunk.js.LICENSE.txt": "/teamsea-help-page/static/js/2.9b2818ca.chunk.js.LICENSE.txt",
+    "static/media/bag.b90b59eb.svg": "/teamsea-help-page/static/media/bag.b90b59eb.svg",
+    "static/media/bottle.4e35fdfe.svg": "/teamsea-help-page/static/media/bottle.4e35fdfe.svg",
+    "static/media/headphones.5d456e24.svg": "/teamsea-help-page/static/media/headphones.5d456e24.svg",
+    "static/media/phones.64fe8b4c.svg": "/teamsea-help-page/static/media/phones.64fe8b4c.svg",
+    "static/media/takeout.40a15c10.svg": "/teamsea-help-page/static/media/takeout.40a15c10.svg",
+    "static/media/toycar.be99b641.svg": "/teamsea-help-page/static/media/toycar.be99b641.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e59c7b7.js",
+    "static/js/2.9b2818ca.chunk.js",
+    "static/css/main.fcadce58.chunk.css",
+    "static/js/main.704c774d.chunk.js"
+  ]
+}
