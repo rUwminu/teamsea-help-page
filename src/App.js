@@ -2,7 +2,8 @@ import './App.css'
 import tw from 'twin.macro'
 import styled from 'styled-components'
 
-import Home from './GalleryHero/pages/Home'
+//import Home from './GalleryHero/pages/Home'
+import Home from './TeamSea/Pages/Home'
 
 function App() {
   return (
